@@ -1,4 +1,4 @@
-![FitClub](https://gym-lhztgqzg7-vo1kas-projects.vercel.app/)
+https://gym-lhztgqzg7-vo1kas-projects.vercel.app/ - preview
 FitClub — одностраничное фитнес‑лендинг приложение
 Легкий и динамичный лендинг для фитнес‑клуба. Построен на React с плавной анимацией через Framer Motion. <br/>Фокус — чистый UI, живая анимация и аккуратная верстка без лишних зависимостей.<br/>
 Стек<br/>
